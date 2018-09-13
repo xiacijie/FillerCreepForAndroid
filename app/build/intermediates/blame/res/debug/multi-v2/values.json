@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/xiacijie/Projects/FillerCreepForAndroid/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/xiacijie/Projects/FillerCreepForAndroid/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "4,17,12,11,13,10,3,14,6,7,9,8,5,16,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "124,794,583,532,634,454,56,676,233,284,402,341,173,756,718",
+                        "endColumns": "48,46,50,50,41,77,67,41,50,56,51,60,59,37,37",
+                        "endOffsets": "168,836,629,578,671,527,119,713,279,336,449,397,228,789,751"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,104,151,202,253,295,373,441,483,534,591,643,704,764,802",
+                        "endColumns": "48,46,50,50,41,77,67,41,50,56,51,60,59,37,37",
+                        "endOffsets": "99,146,197,248,290,368,436,478,529,586,638,699,759,797,835"
+                    }
+                }
+            ]
+        }
+    ]
+}
